@@ -76,7 +76,7 @@ class Siswa:
     def info(self):
         print(f"{self.nama} dari kelas {self.kelas}")
 
-s = Siswa("Kenji", "XI RPL 1")
+s = Siswa("Kenji", "X RPL 7")
 s.info()
 
 🧪 Virtual Environment (Disarankan)
